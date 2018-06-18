@@ -9,9 +9,9 @@ Per la gestione, tra l’utente che effettua la richiesta e il dipendente dell�
 
 Figura 1 – Home Portale Utenti
 
-.. |Home Page Portale Utenti| image:: ./_docs/img/img3.png
+.. |Home Page Portale Utenti| image:: ./img/img3.png
    :width: 3.49583in
    :height: 2.52153in
-.. |image1| image:: ./_docs/img/img2.png
+.. |image1| image:: ./img/img2.png
    :width: 0.55278in
    :height: 0.56528in
