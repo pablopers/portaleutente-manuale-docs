@@ -1,0 +1,14 @@
+projects:
+  - title: Manuale Portale Utente - CRM
+    short-name: CRM-Portal
+    description: |
+      Manuale d'uso interno del Portale Utente - CRM vtiger per la gestione
+      delle richieste di pubblicazione su sito istituzionale della Città Metropolitana di Napoli
+    website: http://www.cittametopolitana.na.it
+    tags:
+      - crm
+      - portale utente
+    documents:
+      - title: Manuale Portale Utente - CRM
+        repository: portaleutente-manuale-docs
+

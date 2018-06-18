@@ -1,0 +1,13 @@
+publisher:
+  name: Città Metropolitana di Napoli 
+  short-name: CMNA
+  description: |
+    Ente territoriale di area vasta istituito con la legge n. 56 del 7 aprile 2014 che ha sostituito la Provincia di Napoli dal 1º gennaio 2015.
+  website: http://www.cittametropolitana.na.it
+  github_organization_url: github.com/cittametropolitananapoli
+  tags:
+    - documents
+    - public
+    - amazing publisher
+  assets:
+    logo: assets/images/cmna_logo.jpg
