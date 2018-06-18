@@ -10,6 +10,6 @@ Nel gruppo si potranno trovare oltre ai documenti già presenti nel Portale Uten
 .. [1]
    `Cos’è Workplace di Facebook? <https://it-it.facebook.com/help/work/791147577614860>`__
 
-.. |banner assistenza Utenti| image:: ./_docs/img/img21.png
+.. |banner assistenza Utenti| image:: ./img/img21.png
    :width: 6.26944in
    :height: 1.47847in

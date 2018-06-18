@@ -64,24 +64,24 @@ Nella sezione Documenti sarà possibile trovare il manuale del Portale Utente, i
 .. [1]
    Riguardo la scelta della priorità consultare il `Contratto di Servizio SLA <http://www.cittametropolitana.na.it/documents/10181/1945800/Contratto+di+servizio+V1.pdf/474d4d7b-6b89-4458-a8b9-8103dae513c2>`__
 
-.. |Assistenza Utenti Portale Utente| image:: ./_docs/img/img14.png
+.. |Assistenza Utenti Portale Utente| image:: ./img/img14.png
    :width: 6.26944in
    :height: 3.34792in
-.. |pulsante crea nuovo ticket| image:: ./_docs/img/img15.png
+.. |pulsante crea nuovo ticket| image:: ./img/img15.png
    :width: 2.11319in
    :height: 1.53056in
-.. |Nuovo Ticket| image:: ./_docs/img/img16.png
+.. |Nuovo Ticket| image:: ./img/img16.png
    :width: 6.26944in
    :height: 2.77361in
-.. |Aggiungere Allegato Portale Utenti| image:: ./_docs/img/img17.png
+.. |Aggiungere Allegato Portale Utenti| image:: ./img/img17.png
    :width: 5.72153in
    :height: 4.13889in
-.. |Visualizza Allegato Portale Utenti| image:: ./_docs/img/img18.png
+.. |Visualizza Allegato Portale Utenti| image:: ./img/img18.png
    :width: 5.99097in
    :height: 3.07847in
-.. |Invia Commento Portale Utenti| image:: ./_docs/img/img19.png
+.. |Invia Commento Portale Utenti| image:: ./img/img19.png
    :width: 6.26944in
    :height: 4.59097in
-.. |Sezioni Portale Utenti| image:: ./_docs/img/img20.png
+.. |Sezioni Portale Utenti| image:: ./img/img20.png
    :width: 3.04375in
    :height: 2.91319in
