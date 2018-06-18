@@ -3,7 +3,7 @@
 
 # -- PROJECT Variables ----------------------------------------------------
 settings_project_name = "Manuale Portale Utente"
-settings_copyright_copyleft = 'Città Metropolitana di Napoli'
+settings_copyright_copyleft = 'Citta Metropolitana di Napoli'
 settings_editor_name = 'Ufficio Relazioni con il Pubblico'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: 1.0'

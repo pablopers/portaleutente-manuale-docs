@@ -2,5 +2,5 @@
 
 # CRM Vtiger, Manuale Portale Utente
 
-Questo repository contiene il Manuale d'uso interno del Portale Utente, costruito su CRM vtiger, ad uso esclusivo dei redattori interni, per la gestione delle richieste di pubblicazione su sito istituzionale della Città Metropolitana di Napoli.
+Questo repository contiene il Manuale d'uso interno del Portale Utente, costruito su CRM vtiger, ad uso esclusivo dei redattori interni, per la gestione delle richieste di pubblicazione sul sito istituzionale della Città Metropolitana di Napoli.
 
