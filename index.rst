@@ -23,6 +23,6 @@ Manuale uso CRM Portale Utenti
   _docs/4.-Accesso-al-Portale-Utenti.rst
   _docs/5.-Assistenza-Portale-Utenti.rst
 
-.. |image0| image:: ./img/img0.png
+.. |image0| image:: ./_docs/img/img0.png
    :width: 0.6in
    :height: 0.79097in
