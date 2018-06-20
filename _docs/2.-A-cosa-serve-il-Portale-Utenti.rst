@@ -16,4 +16,4 @@ Questo è solo l'inizio, perché il **Portale Utenti di vTiger CRM** offre anche
 7. **Assistenza monitorata:** E' possibile verificare l'andamento e la capacità da parte del Team di lavoro nella risoluzione dei Ticket e la conformità al Contratto di Servizio (SLA) [1]_
 
 .. [1]
-   `Contratto di Servizio SLA <http://www.cittametropolitana.na.it/documents/10181/1945800/Contratto+di+servizio+V1.pdf/474d4d7b-6b89-4458-a8b9-8103dae513c2>`__
+   `Contratto di Servizio SLA <https://contratto-di-servizio.readthedocs.io/it/latest/>`__
