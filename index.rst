@@ -13,6 +13,9 @@ Manuale uso CRM Portale Utenti
 |**Città Metropolitana di Napoli** |
 +----------------------------------+
 
+Documento collegato: `Contratto di Servizio
+<http://contratto-di-servizio.readthedocs.io/it/latest/>`_.
+
 .. toctree::
   :maxdepth: 2
   :caption: Indice dei contenuti
