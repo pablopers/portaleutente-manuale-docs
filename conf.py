@@ -52,7 +52,7 @@ extensions = [
 ]
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+# templates_path = ['_templates']
 
 # The suffix of source filenames.
 source_parsers = {
@@ -281,5 +281,5 @@ texinfo_documents = [
    settings_copyright_copyleft, settings_project_name, settings_project_name,
    'Miscellaneous'),
 ]
-
+templates_path = ['_templates']
 numfig = True
