@@ -124,8 +124,8 @@ html_theme_options = {
     # 'False': default (alabaster) badge | 'True': custom (italia) badge
     'custom_versions_badge': 'True',
     'collapse_navigation': 'True',
-templates_path = ['_templates']
 }
+templates_path = ['_templates']
 # -- ReadTheDoc requirements and local template generation---------------------
 
 # on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
