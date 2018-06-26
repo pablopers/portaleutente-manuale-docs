@@ -114,8 +114,6 @@ def setup(app):
 # -- Options for HTML output ----------------------------------------------
 html_theme = 'docs-italia-theme'
 
-templates_path = ['_templates']
-
 html_theme_path = [docs_italia_theme.get_html_theme_path()]
 
 # Theme options are theme-specific and customize the look and feel of a theme
