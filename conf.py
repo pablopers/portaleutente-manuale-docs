@@ -124,7 +124,7 @@ html_theme_options = {
     # 'False': default (alabaster) badge | 'True': custom (italia) badge
     'custom_versions_badge': 'True',
     'collapse_navigation': 'True',
-    templates_path = ['_templates'],
+    
 }
 
 # -- ReadTheDoc requirements and local template generation---------------------
@@ -284,3 +284,4 @@ texinfo_documents = [
 
 numfig = True
 
+templates_path = ['_templates']
