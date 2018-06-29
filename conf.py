@@ -281,5 +281,5 @@ texinfo_documents = [
    settings_copyright_copyleft, settings_project_name, settings_project_name,
    'Miscellaneous'),
 ]
-templates_path = ['_templates']
+
 numfig = True
